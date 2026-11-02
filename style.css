@@ -19,3 +19,73 @@ main{
     width: 300px;
     height: 200px;
 }
+table{
+    table-layout: fixed;
+}
+.tablet{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+.tablet th{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+.tablet td{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+.banana{
+    width: 225px;
+    height: 300px;
+}
+.baguete{
+    width: 300px;
+    height: 225px;
+}
+.integral{
+    width: 350px;
+    height: 200px;
+}
+.manteiga{
+    width: 300px;
+    height: 200px;
+}
+.laranja{
+    width: 300px;
+    height: 300px;
+}
+.pres-queijo{
+    width: 300px;
+    height: 225px;
+}
+.presunto-quei{
+    width: 300px;
+    height: 225px;
+}
+.burger{
+    width: 300px;
+    height: 225px;
+}
+.ovoburger{
+    width: 300px;
+    height: 300px;
+}
+.fritas{
+    width: 350px;
+    height: 225px;
+}
+.beirute{
+    width: 300px;
+    height: 300px;
+}
+.suco-laranja{
+    width: 350px;
+    height: 225px;
+}
+.agua-coco{
+    width: 400px;
+    height: 200px;
+}
